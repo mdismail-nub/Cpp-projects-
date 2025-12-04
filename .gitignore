@@ -1,0 +1,22 @@
+# Ignore compiled files
+*.out
+*.o
+*.obj
+*.exe
+
+# Ignore build folders
+/build/
+/bin/
+/debug/
+/release/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
+
+# Mac/Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
